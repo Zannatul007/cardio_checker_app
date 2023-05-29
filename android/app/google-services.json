@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "128894790698",
+    "project_id": "health-app-aaa3a",
+    "storage_bucket": "health-app-aaa3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128894790698:android:d3e9cb0134033b67742753",
+        "android_client_info": {
+          "package_name": "co.nidita.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128894790698-sclr11og8etgc7pqtdt7a8atss9136do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZomf5nbAUzUwu2xiiiHHaM5WHFzs_4ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128894790698-sclr11og8etgc7pqtdt7a8atss9136do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128894790698:android:645ec9514cbe75aa742753",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128894790698-tcg5296gtc7adofqrmo8eu5caalabelu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthcare",
+            "certificate_hash": "94473e03dd81ae68104bee47ac9142e8fd7f3816"
+          }
+        },
+        {
+          "client_id": "128894790698-sclr11og8etgc7pqtdt7a8atss9136do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZomf5nbAUzUwu2xiiiHHaM5WHFzs_4ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128894790698-sclr11og8etgc7pqtdt7a8atss9136do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
